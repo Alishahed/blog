@@ -23,12 +23,12 @@ footer-links:
   flickr:
   github: alishahed/writings
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/ali-shahed-hagh-ghadam/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: mlhobbyistEn
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCEbnyu9NdztMcOa5epgy2NQ # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
